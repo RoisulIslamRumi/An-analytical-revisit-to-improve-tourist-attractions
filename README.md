@@ -3,7 +3,6 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    
     <li>About</li>
     <li>Dataset</li>
     <li>Goal</li>
@@ -15,7 +14,6 @@
     <li>Libraries</li>
     <li>Contribution</li>
     <li>License</li>
-
   </ol>
 </details>
 

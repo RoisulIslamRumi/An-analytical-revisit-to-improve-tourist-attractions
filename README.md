@@ -12,7 +12,6 @@
     </ul>
     <li>Algorithms</li>
     <li>Libraries</li>
-    <li>Contribution</li>
     <li>License</li>
   </ol>
 </details>
